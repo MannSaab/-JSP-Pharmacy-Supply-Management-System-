@@ -1,2 +1,2 @@
 # Pharmacy-Supply-Management-System
-It is ain JSP
+It is in JSP
